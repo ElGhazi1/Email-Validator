@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+verified_*.txt
+*_clean.txt
+*.csv
